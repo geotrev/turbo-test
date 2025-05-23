@@ -1,4 +1,8 @@
-import { defineArrayMember, defineField, defineType } from "sanity";
+import {
+  // defineArrayMember,
+  defineField,
+  defineType,
+} from "sanity";
 
 import { GROUP, GROUPS } from "../../utils/constant";
 import { ogFields } from "../../utils/og-fields";
